@@ -13,7 +13,7 @@ DOCTYPE.html
     </header>
 
 <!-- use the nav area to add hyperlynk to other pages within the websites -->
-    <nav>
+    <nav>{
         <p>Home &nbsp; &#9632; &nbsp
         link 1 &nbsp; &#9632; &nbsp;
         link 2 &nbsp; &#9632; &nbsp;
@@ -22,10 +22,13 @@ DOCTYPE.html
 =
     <!-- use this main area to add the main content of the webpage -->
     <main>
-    </main>    
-=
-    <!--  use the footer area to add webpage footer contact -->
+    </main>  
+
+    <!-- use the footer area to add webpage footer content -->
     <footer>
-        <p>Add contact information here<P>
-        <p>&copy; Copyright 2011. All Rights Reserved.</p> 
+     <p>&copy; Copyright 2011. All Rights Reserved.</p> 
+    </footer>
+=
+           
+     <p>&copy; Copyright 2011. All Rights Reserved.</p> 
     </footer>
