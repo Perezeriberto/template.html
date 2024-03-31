@@ -28,6 +28,7 @@ DOCTYPE.html
     <footer>
      <p>&copy; Copyright 2011. All Rights Reserved.</p> 
     </footer>
+   
 =
            
      <p>&copy; Copyright 2011. All Rights Reserved.</p> 
